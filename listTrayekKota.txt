@@ -1,0 +1,36 @@
+Yang Anda pilih adalah:
+Trans Metro Pasundan
+No. Koridor 1D
+Koridor: Leuwi Panjang - Gading Tutuka (via Tol Soroja)
+Jalan Yang dilalui:
+Dari Leuwi Panjang: Kopo - Peta - Terusan Pasirkoja - Gerbang Tol Pasirkoja - Tol Soroja - Gerbang Tol Soreang - Tol Soroja - Al-Fathu - Terusan Al-Fathu - Raya Soreang-Banjaran - Raya Gading Tutuka
+Dari Gading Tutuka: Gading Tutuka - Tol Soroja - Gerbang Tol Soreang - Tol Soroja - Gerbang Tol Pasirkoja - Soekarno Hatta - Leuwi Panjang
+Jam Operasional: 05.00-19.00
+
+Yang Anda pilih adalah:
+Trans Metro Pasundan
+No. Koridor 2D
+Koridor: Kota Baru Parahyangan - Alun-alun Bandung
+Jalan yang dilalui
+Dari Kota Baru Parahyangan: Parahyangan Raya - Bujanggamanik Kav. - Gelap Nyawang - Parahyangan Raya - Raya Padalarang - Raya Caringin - Raya Cimareme - Raya Gadobangkong - Jend. H. Amir Mahmud - Flyover Cimindi - Jend. H. Amir Mahmud - Rajawali Barat - Rajawali Timur - Kebon Jati - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Braga -  Lembong - Veteran - Tamblong - Asia Afrika
+Dari Alun-alun Bandung: Asia Afrika - Jend. Sudirman - Jend. H. Amir Mahmud - Flyover Cimindi - Jend. H. Amir Mahmud - Gatot Subroto - Gedung Empat - Gandawijaya - Jend. H. Amir Mahmud - Raya Gadobangkong - Raya Cimareme - Raya Caringin - Raya Padalarang - Parahyangan Raya
+Jam Operasional: 05.00-19.00
+
+Yang Anda pilih adalah:
+Trans Metro Pasundan
+No. Koridor 3D
+Koridor: Baleendah - BEC
+Jalan yang dilalui:
+Dari Baleendah: Anggadireja - Jaksa Naranata - Siliwangi - Mekarsari - Cijagra - Raya Bojongsoang - Terusan Buah Batu - Soekarno Hatta - Moh. Toha - Pungkur - Dewi Sartika - Alun-alun Timur - Asia Afrika - Banceuy - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Kebon Jukut - Otto Iskandardinata - Kebon Kawung - Pasir Kaliki - Pajajaran - Cihampelas - Wastukencana - L.L.R.E. Martadinata - Purnawarman
+Dari BEC: Purnawarman - Wastukencana - Aceh - Merdeka - Lembong - Tamblong - Asia Afrika - Otto Iskandardinata - BKR - Moh. Toha - Soekarno Hatta - Terusan Buah Batu - Raya Bojongsoang - Cijagra - Mekarsari - Siliwangi - Jaksa Naranata - Adipati Agung - Kiastramanggala - Anggadireja
+Jam Operasional: 04.30-19.00
+
+Yang Anda pilih adalah:
+Trans Metro Pasundan
+No. Koridor 4D
+Koridor: Leuwi Panjang - Dago
+Jalan yang dilalui:
+Dari Leuwi Panjang: Kopo - Peta - Otto Iskandardinata - Astana Anyar - Gardujati - Kebon Jati - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Wastukencana - L.L.R.E. Martadinata - Ir. H. Djuanda - Dipatiuku
+Dari Dago: Ir. H. Djuanda - Dipatiukur - Hasanudin - Ir. H. Djuanda - Merdeka - Perintis Kemerdekaan - Braga - Suniaraja - Otto Iskandardinata - Ibu Inggit Garnasih - Moh. Toha - BKR - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
+Jam Operasional: 05.00-19.30
+

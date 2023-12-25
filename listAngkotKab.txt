@@ -1,0 +1,24 @@
+1. Banjaran - Cimaung
+2. Cibaduyut - Baleendah
+3. Cibaduyut - Banjaran
+4. Cicalengka - Limbangan
+5. Cicalengka - Majalaya
+6. Cileunyi - Cicalengka
+7. Cileunyi - Majalaya
+8. Cileunyi - Terminal Cakar
+9. Cimahi - Soreang
+10. Cimindi - Marga Asih
+11. Cicaheum - Cileunyi
+12. Ciwastra - Ciparay
+13. Majalaya - Ciparay
+14. Majalaya - Ibun
+15. Majalaya - Pacet 
+16. Soreang - Banjaran
+17. Soreang - Dayeuh Kolot
+18. Buah Batu - Dayeuh Kolot
+19. Leuwi Panjang - Soreang
+20. Pasar Induk gedebage - Majalaya
+21. Tegalega - Banjaran
+22. Tegalega - Mahmud
+23. Tegalega - Cipatik
+24. Tegalega - Ciparay

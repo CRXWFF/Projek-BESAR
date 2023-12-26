@@ -89,7 +89,7 @@ def login(username, password):
             user_data[row[0]] = row[1]
     while True:
         if username in user_data and password == user_data[username]:
-            print(border,'\nLogin berhasil!')
+            print(border,'\nLogin berhasil! Selamat datang', username)
             menu_utama()
             break
         elif username == admin_data['username'] and password == admin_data['password']:

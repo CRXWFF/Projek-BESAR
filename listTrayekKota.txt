@@ -1,3 +1,4 @@
+Pilihan 1
 Yang Anda pilih adalah:
 Trans Metro Pasundan
 No. Koridor 1D
@@ -7,6 +8,7 @@ Dari Leuwi Panjang: Kopo - Peta - Terusan Pasirkoja - Gerbang Tol Pasirkoja - To
 Dari Gading Tutuka: Gading Tutuka - Tol Soroja - Gerbang Tol Soreang - Tol Soroja - Gerbang Tol Pasirkoja - Soekarno Hatta - Leuwi Panjang
 Jam Operasional: 05.00-19.00
 
+Pilihan 2
 Yang Anda pilih adalah:
 Trans Metro Pasundan
 No. Koridor 2D
@@ -16,6 +18,7 @@ Dari Kota Baru Parahyangan: Parahyangan Raya - Bujanggamanik Kav. - Gelap Nyawan
 Dari Alun-alun Bandung: Asia Afrika - Jend. Sudirman - Jend. H. Amir Mahmud - Flyover Cimindi - Jend. H. Amir Mahmud - Gatot Subroto - Gedung Empat - Gandawijaya - Jend. H. Amir Mahmud - Raya Gadobangkong - Raya Cimareme - Raya Caringin - Raya Padalarang - Parahyangan Raya
 Jam Operasional: 05.00-19.00
 
+Pilihan 3
 Yang Anda pilih adalah:
 Trans Metro Pasundan
 No. Koridor 3D
@@ -25,6 +28,7 @@ Dari Baleendah: Anggadireja - Jaksa Naranata - Siliwangi - Mekarsari - Cijagra -
 Dari BEC: Purnawarman - Wastukencana - Aceh - Merdeka - Lembong - Tamblong - Asia Afrika - Otto Iskandardinata - BKR - Moh. Toha - Soekarno Hatta - Terusan Buah Batu - Raya Bojongsoang - Cijagra - Mekarsari - Siliwangi - Jaksa Naranata - Adipati Agung - Kiastramanggala - Anggadireja
 Jam Operasional: 04.30-19.00
 
+Pilihan 4
 Yang Anda pilih adalah:
 Trans Metro Pasundan
 No. Koridor 4D
@@ -34,3 +38,198 @@ Dari Leuwi Panjang: Kopo - Peta - Otto Iskandardinata - Astana Anyar - Gardujati
 Dari Dago: Ir. H. Djuanda - Dipatiukur - Hasanudin - Ir. H. Djuanda - Merdeka - Perintis Kemerdekaan - Braga - Suniaraja - Otto Iskandardinata - Ibu Inggit Garnasih - Moh. Toha - BKR - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
 Jam Operasional: 05.00-19.30
 
+Pilihan 5
+Yang Anda pilih adalah:
+Trans Metro Pasundan
+No. Koridor 5D
+Koridor: Dipatiukur - Jatinangor (via Tol Moh. Toha)
+Jalan yang dilalui:
+Dari Dipatiukur: Dipatiukur - Panatayuda - Surapati - Sentot Alibasyah - Diponegoro - Supratman - Lapang Supratman - Cendana - Taman Pramuka - L.L.R.E. Martadinata - Laswi - Flyover Laswi - Pelajar Pejuang 45 - BKR - Moh. Toha - Gerbang Tol Moh. Toha - Tol Purbaleunyi - Gerbang Tol Cileunyi - Raya Cileunyi - Raya Jatinangor
+Dari Jatinangor: Raya Jatinangor - Sindangsari - Raya Cipacing - Gerbang Tol Cileunyi - Tol Purbaleunyi - Gerbang Tol Moh. Toha - Moh. Toha - BKR - Pelajar Pejuang 45 - Flyover Laswi - Laswi - Jend. Ahmad Yani - Supratman - Lapang Supratman - Supratman - Diponegoro - Sentot Alibasyah - Surapati - Prabudimuntur - Surapati - Panatayuda - Dipatiukur
+Jam operasional: 04.30-19.00
+
+Pilihan 6
+Yang Anda pilih adalah:
+Trans Metro Bandung
+No.Koridor TMB1
+Koridor: Cibiru - Cibeureum
+Jalan yang dilalui: 
+Dari Cibiru: Soekarno Hatta - Jend. Sudirman - Rajawali Barat - Elang Raya
+Dari Cibeureum: Elang Raya - Soekarno Hatta
+Jam Operasional: 05.25-18.30
+Tarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
+
+Pilihan 7
+Yang Anda pilih adalah:
+Trans Metro Bandung
+No. Koridor TMB2
+Koridor: Cicaheum - Cibeureum
+Jalan yang dilalui:
+Dari Cicaheum: Jend. Ahmad Yani - H. Ibrahim Adjie - Jakarta - Jend. Ahmad Yani - Kembang Sapatu - Terate - Samoja - Malabar - Jend. Ahmad Yani - Asia Afrika - Jend. Sudirman - Rajawali Barat - Elang Raya
+Dari Cibeureum: Elang Raya - Rajawali Barat - Rajawali Timur - Kebon Jati - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Braga - Lembong - Veteran - Jend. Ahmad Yani
+Jam Operasional: 05.25-18.45
+Tarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
+
+Pilihan 8
+Yang Anda pilih adalah:
+Trans Metro Bandung
+No. Koridor TMB3
+Koridor: Cicaheum - Sarijadi
+Jalan yang dilalui:
+Dari Cicaheum: Jend. Ahmad Yani - P.H.H. Mustofa - Surapati - Prabudimuntur - Cikapayang - Prof. Mochtar Kusumaatmadja (Flyover Pasupati) - Dr. Djunjunan - Surya Sumantri - Lemahneundeut - Perintis - Sarimanah - Sariwangi
+Dari Sarijadi: Sariwangi - Lemahneundeut - Terusan Prof. Dr. Sutami - Surya Sumantri - Dr. Djunjunan - Prof. Mochtar Kusumaatmadja (Flyover Pasupati) - Cikapayang - Surapati - P.H.H. Mustofa - Jend. Ahmad Yani
+Jam Operasional: 05.25-19.00
+Tarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
+
+Pilihan 9
+Yang Anda pilih adalah:
+Trans Metro Bandung
+No. Koridor TMB4
+Koridor: Antapani - Leuwi Panjang
+Jalan yang dilalui:
+Dari Antapani: Jakarta - Sukabumi - Laswi - Flyover Laswi - Pelajar Pejuang 45 - BKR - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
+Dari Leuwi Panjang: Kopo - Peta - BKR - Pelajar Pejuang 45 - Flyover Laswi - Laswi - Jend. Ahmad Yani - H. Ibrahim Adjie
+Jam Operasional: 05.45-18.00
+Tarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
+
+Pilihan 10
+Yang Anda pilih adalah:
+Trans Metro Bandung
+No. Koridor TMB5
+Koridor: Antapani - Stasiun Hall
+Jalan yang dilalui:
+Dari Antapani: Terusan Jakarta - Jakarta - Sukabumi - Laswi - L.L.R.E. Martadinata - Merdeka - Lembong - Tamblong - Asia Afrika - Jend. Sudirman - Gardujati - Kebon Jati - Suniaraja
+Dari Stasiun Hall: Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Braga - Lembong - Veteran - Jend. Ahmad Yani - H. Ibrahim Adjie - Terusan Jakarta - Cibatu Raya
+Jam Operasional: 05.45-17.00
+Tarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
+
+Pilihan 11
+Yang Anda pilih adalah:
+Trans Metro Bandung
+No. Koridor TMBF1
+Koridor: Stasiun Hall - Gunung Batu
+Jalan yang dilalui: 
+Dari Stasiun Hall: Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Wastukencana - Pajajaran - Cihampelas - Dr. Abdul Rivai - Cipaganti - Pasteur - Dr. Djunjunan - Sukaraja II - Dakota - Gunung Batu
+Dari Gunung Batu: Gunung Batu - Dakota - Sukaraja II - Dr. Djunjunan - Pasteur - Cihampelas - Wastukencana - Pajajaran - Cicendo - Kebon Kawung - Pasir Kaliki - Kebon Jati - Suniaraja
+Jam Operasional: *akan diumumkan kemudian
+Tarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
+
+Pilihan 12
+Yang Anda pilih adalah
+Trans Metro Bandung
+No. Koridor TMBF2
+Koridor: MalL Summarecon - Cibeureum
+Jalan yang di lalui:
+Dari Mal Summarecon: Grand Bulevar - Bulevar Barat - Gedebage Selatan - Soekarno Hatta - Jend. Sudirman - Rajawali Barat - Elang Raya
+Dari Cibeureum: Elang Raya - Soekarno Hatta - Gedebage Selatan - Summarecon Bandung
+Jam Operasional: 05.00-17.00
+Tarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
+
+Pilihan 13
+Yang Anda pilih adalah:
+Trans Bandung Raya
+No. Koridor D6A
+Koridor: Elang - Jatinangor (via Tol Moh. Toha)
+Jalan yang dilalui:
+Dari Elang: Elang Raya - Garuda - Jend. Sudirman - Soekarno Hatta - Moh. Toha - Gerbang Tol Moh. Toha - Tol Purbaleunyi - Gerbang Tol Cileunyi - Raya Cileunyi - Raya Jatinangor
+Dari Jatinangor: Raya Jatinangor - Sindangsari - Raya Cipacing - Gerbang Tol Cileunyi - Tol Purbaleunyi - Gerbang Tol Moh. Toha - Moh. Toha - Soekarno Hatta - Elang Raya
+Jam Operasional: -
+Tarif: TunaiRp. 13.000,-
+
+Pilihan 14
+Yang Anda pilih adalah:
+Trans Bandung Raya
+No. Koridor D8
+Koridor: Tanjungsari - Kebon Kalapa
+Jalan yang dilalui: 
+Dari Tanjungsari: Raya Tanjungsari - Raya Jatinangor - Sindangsari - Raya Cileunyi - Percobaan - Raya Cinunuk - Raya Cibiru - Soekarno Hatta - Moh. Toha
+Dari Kebon Kalapa: Moh. Toha - Pungkur - Moch. Ramdan - Karapitan - Lauk Emas - Buah Batu - KH Ahmad Dahlan - Pelajar Pejuang 45 - Buah Batu - Soekarno Hatta - Raya Cibiru - Raya Cinunuk - Raya Cileunyi - Raya Jatinangor - Raya Tanjungsari
+Jam Operaional: -
+Tarif: Tunai Rp. 14.000,- (Tanjungsari - Kebon Kalapa)
+
+Pilihan 15
+Yang Anda pilih adalah:
+Trans Bandung Raya
+No. Koridor D11
+Koridor: Cibiru - Cicaheum - Leuwi Panjang
+Jalan yang dilalui:
+Dari Cibiru: A.H. Nasution - Cicaheum -Jend Ahmad Yani - H. Ibrahim Adjie - Jakarta - Jend. Ahmad Yani - Kembang Sapatu - Terate - Samoja - Malabar - Jend. Ahmad Yani - Asia Afrika - Otto Iskandardinata - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
+Dari Leuwi Panjang: Kopo - Pasirkoja - Pungkur - Dewi Sartika - Dalem Kaum - Alun-alun Timur - Asia Afrika - Banceuy - ABC - Naripan - Sunda - Veteran - Jend. Ahmad Yani - Cicaheum - A.H. Nasution - Soekarno Hatta - A.H. Nasution
+Jam Operasional: -
+Tarif: Tunai Rp. 8.000,-
+
+Pilihan 16
+Yang Anda pilih adalah:
+Trans Bandung Raya
+No. Koridor KBP
+Koridor: Alun-alun Bandung - Kota Baru Parahyangan (via Tol Pasteur)
+Jalan yang dilalui:
+Dari Alun-alun Bandung: Asia Afrika - Banceuy - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Wastukencana - Pajajaran - Cihampelas - Dr. Abdul Rivai - Dr. Cipto - Dr. Gunawan - Dr. Otten - Westhoff - Pasteur - Dr. Djunjunan - Gerbang Tol Pasteur - Tol Purbaleunyi - Gerbang Tol Padalarang Timur - Parahyangan Raya - Gelap Nyawang - Guru Gantangan
+Dari Kota Baru Parahyangan: Guru Gantangan - Gelap Nyawang - Parahyangan Raya - Gerbang Tol Padalarang Timur - Tol Purbaleunyi - Gerbang Tol Pasteur - Dr. Djunjunan - Pasteur - Cihampelas - Wastukencana - L.L.R.E. Martadinata - Merdeka - Lembong - Tamblong - Asia Afrika
+Jam Operasional: -
+Tarif: Non-tunai & Tunai:Rp. 13.000,-
+
+Pilihan 17
+Yang Anda pilih adalah:
+Bus Rapid Aman & Sehat
+No. Koridor MJ 
+Koridor: Leuwi Panjang - Majalaya
+Jalan yang dilalui:
+Dari Leuwi Panjang: Kopo - Peta - BKR - Moh. Toha - Raya Dayeuhkolot - Raya Bojongsoang - Cijagra - Mekarsari - Siliwangi - Raya Laswi - Kondang - Stasion
+Dari Majalaya: Stasion - Alun-alun Utara - Cikaro - Raya Laswi - Siliwangi - Mekarsari - Cijagra - Raya Bojongsoang - Raya Dayeuhkolot - Moh. Toha - Soekarno Hatta - Moh. Toha - BKR - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
+Jam Operasional: 06.00-14.00 (Dari Leuwi Panjang) & 08.00-16.00 (Dari Majalaya)
+Tarif: Tunai Rp. 5.000,- (Umum) & Rp. 0,- (Lansia)
+
+Pilihan 18
+Yang Anda pilih adalah:
+Bus Sekolah
+No. Koridor BS01
+Koridor: Antapani—Ledeng
+Jalan yang dilalui:
+Dari Antapani: Terminal Ledeng - Jalan Dr. Setiabudi - Cihampelas - Wastukancana - RE. Martadinata - Perintis Kemerdekaan - Ahmad Yani - Ibrahim Adjie - Terusan Jakarta - Terminal Antapani
+Dari Ledeng: Terminal Antapani - Jalan Terusan Jakarta - Jakarta - Supratman - Riau - Wastukancana - Cihampelas - Setiabudi - Terminal Ledeng
+Jam Operasional: 10.35 WIB dari Antapani
+Tarif: Gratis
+
+Pilihan 19
+Yang Anda pilih adalah:
+Bus Sekolah
+No. Koridor BS02
+Koridor: Leuwipanjang—Dago
+Jalan yang dilalui:
+Dari Leuwipanjang: Terminal Leuwipanjang - Jalan Kopo - Peta - Moh. Ramdan - Karapitan - Sunda - Sumbawa - Belitung - Aceh - Seram -Hasanudin - Unpad Dipatiukur
+Dari Dago: Unpad Dipatiukur - Jalan Ir. H. Juanda - Merdeka - Tamblong - Lembong - Lengkong Kecil - Lengkong Besar - Otto Iskandardinata - Peta - Terminal Leuwipanjang
+Jam Operasional: 10.25 WIB dari Leuwipanjang
+Tarif: Gratis
+
+Pilihan 20
+Yang Anda pilih adalah:
+Bus Sekolah
+No. Koridor BS03
+Koridor: Cibiru—Alun-alun
+Jalan yang dilalui:
+Dari Cibiru: Bundaran Cibiru - Jalan Soekarno Hatta - Buahbatu - Gurame - Asia Afrika - Alun-alun Bandung
+Dari Alun-alun: Alun-alun - Jalan Otto Iskandardinata - Inggit Ganarsih - Pungkur - BKR - Pelajar Pejuang 45 - Buahbatu - Soekarno Hatta - Bundaran Cibiru
+Jam Operasional: 10.20 WIB dari persimpangan Gedebage
+Tarif: Gratis
+
+Pilihan 21
+Yang Anda pilih adalah:
+Bus Sekolah
+No. Koridor BS04
+Koridor: Cibiru—Cibereum
+Jalan yang dilalui:
+Dari Cibiru: Bundaran Cibiru - Jalan Soekarno Hatta - Sudirman - Rajawali Barat - Elang
+Dari Cibereum: Elang - Jalan Rajawali Barat - Soekarno Hatta - Bundaran Cibiru
+Jam Operasional: 10.30 WIB dari persimpangan Gedebage
+Tarif : Gratis
+
+Pilihan 1
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 01A
+Warna: Hijau-Kuning
+Relasi Perjalanan Abdul Muis - Cicaheum (via Binong)
+Jalan yang dilalui:
+Dari Abdul Muis: Dewi Sartika - Kautamaan Istri - Balonggede - Pungkur - Moch. Ramdan - Karapitan - Lauk Emas - Buah Batu - K.H. Ahmad Dahlan - Palasari - Lodaya - R.A.A. Martanegara - Turangga - Jend. Gatot Subroto - H. Ibrahim Adjie - Jakarta - Flyover Supratman - Supratman - Lapang Supratman - Supratman - Brigadir Jend. Katamso - Pahlawan - Cikutra - P.H.H. Mustofa - Jend. Ahmad Yani
+Dari Cicaheum: Jend. Ahmad Yani - P.H.H. Mustofa - Pahlawan - Brigadir Jend. Katamso - Supratman - Jend. Ahmad Yani - H. Ibrahim Adjie - Jend. Gatot Subroto - Turangga - R.A.A. Martanegara - Lodaya - Palasari - Gajah - Buah Batu - Gurame - Moch. Ramdan - Pungkur - Ibu Inggit Garnasih - Dewi Sartika

@@ -183,7 +183,6 @@ def pilihan_trayek_bus_kota():
         if pilihan == '1':
             print(border)
             moduls.tampilTrayek(1,8,listTrayek='listTrayekKota.txt')
-
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -197,7 +196,6 @@ def pilihan_trayek_bus_kota():
         elif pilihan == '2':
             print(border)
             moduls.tampilTrayek(12,19,listTrayek='listTrayekKota.txt')
-
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -212,7 +210,6 @@ def pilihan_trayek_bus_kota():
         elif pilihan == '3':
             print(border)
             moduls.tampilTrayek(22,29,listTrayek='listTrayekKota.txt')
-
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -226,7 +223,6 @@ def pilihan_trayek_bus_kota():
         elif pilihan == '4':
             print(border)
             moduls.tampilTrayek(32,39,listTrayek='listTrayekKota.txt')
-
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -240,17 +236,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '5':
             print(border)
-            print('''
-             \nYang Anda pilih adalah:
-             \nTrans Metro Pasundan
-             \nNo. Koridor 5D
-                \nKoridor: Dipatiukur - Jatinangor (via Tol Moh. Toha)
-              \nJalan yang dilalui:
-              \nDari Dipatiukur: Dipatiukur - Panatayuda - Surapati - Sentot Alibasyah - Diponegoro - Supratman - Lapang Supratman - Cendana - Taman Pramuka - L.L.R.E. Martadinata - Laswi - Flyover Laswi - Pelajar Pejuang 45 - BKR - Moh. Toha - Gerbang Tol Moh. Toha - Tol Purbaleunyi - Gerbang Tol Cileunyi - Raya Cileunyi - Raya Jatinangor
-              \nDari Jatinangor: Raya Jatinangor - Sindangsari - Raya Cipacing - Gerbang Tol Cileunyi - Tol Purbaleunyi - Gerbang Tol Moh. Toha - Moh. Toha - BKR - Pelajar Pejuang 45 - Flyover Laswi - Laswi - Jend. Ahmad Yani - Supratman - Lapang Supratman - Supratman - Diponegoro - Sentot Alibasyah - Surapati - Prabudimuntur - Surapati - Panatayuda - Dipatiukur
-              \nJam operasional: 04.30-19.00
-            ''')
-
+            moduls.tampilTrayek(42,49,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -264,18 +250,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '6':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nTrans Metro Bandung
-               \nNo.Koridor TMB1
-               \nKoridor: Cibiru - Cibeureum
-               \nJalan yang dilalui: 
-               \nDari Cibiru: Soekarno Hatta - Jend. Sudirman - Rajawali Barat - Elang Raya
-               \nDari Cibeureum: Elang Raya - Soekarno Hatta
-               \nJam Operasional: 05.25-18.30
-               \nTarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
-            ''')
-
+            moduls.tampilTrayek(52,60,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -289,18 +264,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '7':
             print(border)
-            print('''
-               \nYang Anda pilih adalah:
-                \nTrans Metro Bandung
-               \nNo. Koridor TMB2
-               \nKoridor: Cicaheum - Cibeureum
-               \nJalan yang dilalui:
-               \nDari Cicaheum: Jend. Ahmad Yani - H. Ibrahim Adjie - Jakarta - Jend. Ahmad Yani - Kembang Sapatu - Terate - Samoja - Malabar - Jend. Ahmad Yani - Asia Afrika - Jend. Sudirman - Rajawali Barat - Elang Raya
-               \nDari Cibeureum: Elang Raya - Rajawali Barat - Rajawali Timur - Kebon Jati - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Braga - Lembong - Veteran - Jend. Ahmad Yani
-               \nJam Operasional: 05.25-18.45
-               \nTarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
-            ''')
-
+            moduls.tampilTrayek(63,71,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -314,18 +278,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '8':
             print(border)
-            print(''' 
-                \nYang Anda pilih adalah:
-               \nTrans Metro Bandung
-              \nNo. Koridor TMB3
-              \nKoridor: Cicaheum - Sarijadi
-              \nJalan yang dilalui:
-              \nDari Cicaheum: Jend. Ahmad Yani - P.H.H. Mustofa - Surapati - Prabudimuntur - Cikapayang - Prof. Mochtar Kusumaatmadja (Flyover Pasupati) - Dr. Djunjunan - Surya Sumantri - Lemahneundeut - Perintis - Sarimanah - Sariwangi
-              \nDari Sarijadi: Sariwangi - Lemahneundeut - Terusan Prof. Dr. Sutami - Surya Sumantri - Dr. Djunjunan - Prof. Mochtar Kusumaatmadja (Flyover Pasupati) - Cikapayang - Surapati - P.H.H. Mustofa - Jend. Ahmad Yani
-              \nJam Operasional: 05.25-19.00
-              \nTarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
-            ''')
-
+            moduls.tampilTrayek(74,82,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -339,17 +292,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '9':
             print(border)
-            print(''' 
-                \nYang Anda pilih adalah:
-                \nTrans Metro Bandung
-               \nNo. Koridor TMB4
-               \nKoridor: Antapani - Leuwi Panjang
-               \nJalan yang dilalui:
-               \nDari Antapani: Jakarta - Sukabumi - Laswi - Flyover Laswi - Pelajar Pejuang 45 - BKR - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
-               \nDari Leuwi Panjang: Kopo - Peta - BKR - Pelajar Pejuang 45 - Flyover Laswi - Laswi - Jend. Ahmad Yani - H. Ibrahim Adjie
-               \nJam Operasional: 05.45-18.00
-               \nTarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
-            ''')
+            moduls.tampilTrayek(85,93,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -363,17 +306,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '10':
             print(border)
-            print(''' 
-                \nYang Anda pilih adalah:
-                \nTrans Metro Bandung
-               \nNo. Koridor TMB5
-               \nKoridor: Antapani - Stasiun Hall
-               \nJalan yang dilalui:
-               \nDari Antapani: Terusan Jakarta - Jakarta - Sukabumi - Laswi - L.L.R.E. Martadinata - Merdeka - Lembong - Tamblong - Asia Afrika - Jend. Sudirman - Gardujati - Kebon Jati - Suniaraja
-               \nDari Stasiun Hall: Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Braga - Lembong - Veteran - Jend. Ahmad Yani - H. Ibrahim Adjie - Terusan Jakarta - Cibatu Raya
-               \nJam Operasional: 05.45-17.00
-               \nTarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
-            ''')
+            moduls.tampilTrayek(96,104,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -387,17 +320,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '11':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nTrans Metro Bandung
-               \nNo. Koridor TMBF1
-               \nKoridor: Stasiun Hall - Gunung Batu
-               \nJalan yang dilalui: 
-               \nDari Stasiun Hall: Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Wastukencana - Pajajaran - Cihampelas - Dr. Abdul Rivai - Cipaganti - Pasteur - Dr. Djunjunan - Sukaraja II - Dakota - Gunung Batu
-               \nDari Gunung Batu: Gunung Batu - Dakota - Sukaraja II - Dr. Djunjunan - Pasteur - Cihampelas - Wastukencana - Pajajaran - Cicendo - Kebon Kawung - Pasir Kaliki - Kebon Jati - Suniaraja
-               \nJam Operasional: *akan diumumkan kemudian
-               \nTarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
-            ''')
+            moduls.tampilTrayek(107,115,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -411,17 +334,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '12':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nTrans Metro Bandung
-               \nNo. Koridor TMBF2
-               \nKoridor: MalL Summarecon - Cibeureum
-               \nJalan yang di lalui:
-               \nDari Mal Summarecon: Grand Bulevar - Bulevar Barat - Gedebage Selatan - Soekarno Hatta - Jend. Sudirman - Rajawali Barat - Elang Raya
-               \nDari Cibeureum: Elang Raya - Soekarno Hatta - Gedebage Selatan - Summarecon Bandung
-               \nJam Operasional: 05.00-17.00
-               \nTarif: Tunai Rp. 2.000,- (Pelajar) & Rp. 4.000,- (Umum)
-            ''')
+            moduls.tampilTrayek(118,126,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -435,17 +348,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '13':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nTrans Bandung Raya
-               \nNo. Koridor D6A
-               \nKoridor: Elang - Jatinangor (via Tol Moh. Toha)
-               \nJalan yang dilalui:
-               \nDari Elang: Elang Raya - Garuda - Jend. Sudirman - Soekarno Hatta - Moh. Toha - Gerbang Tol Moh. Toha - Tol Purbaleunyi - Gerbang Tol Cileunyi - Raya Cileunyi - Raya Jatinangor
-               \nDari Jatinangor: Raya Jatinangor - Sindangsari - Raya Cipacing - Gerbang Tol Cileunyi - Tol Purbaleunyi - Gerbang Tol Moh. Toha - Moh. Toha - Soekarno Hatta - Elang Raya
-               \nJam Operasional: -
-               \nTarif: TunaiRp. 13.000,-
-            ''')
+            moduls.tampilTrayek(129,137,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -459,17 +362,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '14':
             print(border)
-            print('''
-                \nYang Anda pilih:
-                \nTrans Bandung Raya
-               \nNo. Koridor D8
-               \nKoridor: Tanjungsari - Kebon Kalapa
-               \nJalan yang dilalui: 
-               \nDari Tanjungsari: Raya Tanjungsari - Raya Jatinangor - Sindangsari - Raya Cileunyi - Percobaan - Raya Cinunuk - Raya Cibiru - Soekarno Hatta - Moh. Toha
-               \nDari Kebon Kalapa: Moh. Toha - Pungkur - Moch. Ramdan - Karapitan - Lauk Emas - Buah Batu - KH Ahmad Dahlan - Pelajar Pejuang 45 - Buah Batu - Soekarno Hatta - Raya Cibiru - Raya Cinunuk - Raya Cileunyi - Raya Jatinangor - Raya Tanjungsari
-               \nJam Operaional: -
-               \nTarif: Tunai Rp. 14.000,- (Tanjungsari - Kebon Kalapa)
-            ''')
+            moduls.tampilTrayek(140,148,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n):')
             if lagi == 'y':
                 daerah()
@@ -482,17 +375,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '15':
             print(border)
-            print('''
-                \nYang Anda pilih:
-                \nTrans Bandung Raya
-               \nNo. Koridor D11
-               \nKoridor: Cibiru - Cicaheum - Leuwi Panjang
-               \nJalan yang dilalui:
-               \nDari Cibiru: A.H. Nasution - Cicaheum -Jend Ahmad Yani - H. Ibrahim Adjie - Jakarta - Jend. Ahmad Yani - Kembang Sapatu - Terate - Samoja - Malabar - Jend. Ahmad Yani - Asia Afrika - Otto Iskandardinata - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
-               \nDari Leuwi Panjang: Kopo - Pasirkoja - Pungkur - Dewi Sartika - Dalem Kaum - Alun-alun Timur - Asia Afrika - Banceuy - ABC - Naripan - Sunda - Veteran - Jend. Ahmad Yani - Cicaheum - A.H. Nasution - Soekarno Hatta - A.H. Nasution
-               \nJam Operasional: -
-               \nTarif: Tunai Rp. 8.000,-
-            ''')
+            moduls.tampilTrayek(151,159,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n):')
             if lagi == 'y':
                 daerah()
@@ -505,17 +388,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '16':
             print(border)
-            print('''
-                \nYang Anda pilih:
-                \nTrans Bandung Raya
-               \nNo. Koridor KBP
-               \nKoridor: Alun-alun Bandung - Kota Baru Parahyangan (via Tol Pasteur)
-               \nJalan yang dilalui:
-               \nDari Alun-alun Bandung: Asia Afrika - Banceuy - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Wastukencana - Pajajaran - Cihampelas - Dr. Abdul Rivai - Dr. Cipto - Dr. Gunawan - Dr. Otten - Westhoff - Pasteur - Dr. Djunjunan - Gerbang Tol Pasteur - Tol Purbaleunyi - Gerbang Tol Padalarang Timur - Parahyangan Raya - Gelap Nyawang - Guru Gantangan
-               \nDari Kota Baru Parahyangan: Guru Gantangan - Gelap Nyawang - Parahyangan Raya - Gerbang Tol Padalarang Timur - Tol Purbaleunyi - Gerbang Tol Pasteur - Dr. Djunjunan - Pasteur - Cihampelas - Wastukencana - L.L.R.E. Martadinata - Merdeka - Lembong - Tamblong - Asia Afrika
-               \nJam Operasional: -
-               \nTarif: Non-tunai & Tunai:Rp. 13.000,-
-            ''')
+            moduls.tampilTrayek(162,170,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n):')
             if lagi == 'y':
                 daerah()
@@ -528,17 +401,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '17':
             print(border)
-            print('''
-                \nYang Anda pilih:
-                \nBus Rapid Aman & Sehat
-               \nNo. Koridor MJ 
-               \nKoridor: Leuwi Panjang - Majalaya
-               \nJalan yang dilalui:
-               \nDari Leuwi Panjang: Kopo - Peta - BKR - Moh. Toha - Raya Dayeuhkolot - Raya Bojongsoang - Cijagra - Mekarsari - Siliwangi - Raya Laswi - Kondang - Stasion
-               \nDari Majalaya: Stasion - Alun-alun Utara - Cikaro - Raya Laswi - Siliwangi - Mekarsari - Cijagra - Raya Bojongsoang - Raya Dayeuhkolot - Moh. Toha - Soekarno Hatta - Moh. Toha - BKR - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
-               \nJam Operasional: 06.00-14.00 (Dari Leuwi Panjang) & 08.00-16.00 (Dari Majalaya)
-               \nTarif: Tunai Rp. 5.000,- (Umum) & Rp. 0,- (Lansia)
-            ''')
+            moduls.tampilTrayek(173,181,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n):')
             if lagi == 'y':
                 daerah()
@@ -551,17 +414,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '18':
             print(border)
-            print('''
-                \nYang Anda pilih:
-                \nBus Sekolah
-               \nNo. Koridor BS01
-               \nKoridor: Antapani—Ledeng
-               \nJalan yang dilalui:
-               \nDari Antapani: Terminal Ledeng - Jalan Dr. Setiabudi - Cihampelas - Wastukancana - RE. Martadinata - Perintis Kemerdekaan - Ahmad Yani - Ibrahim Adjie - Terusan Jakarta - Terminal Antapani
-               \nDari Ledeng: Terminal Antapani - Jalan Terusan Jakarta - Jakarta - Supratman - Riau - Wastukancana - Cihampelas - Setiabudi - Terminal Ledeng
-               \nJam Operasional: 10.35 WIB dari Antapani
-               \nTarif: Gratis
-            ''')
+            moduls.tampilTrayek(184,192,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n):')
             if lagi == 'y':
                 daerah()
@@ -574,17 +427,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '19':
             print(border)
-            print('''
-                \nYang Anda pilih:
-                \nBus Sekolah
-               \nNo. Koridor BS02
-               \nKoridor: Leuwipanjang—Dago
-               \nJalan yang dilalui:
-               \nDari Leuwipanjang: Terminal Leuwipanjang - Jalan Kopo - Peta - Moh. Ramdan - Karapitan - Sunda - Sumbawa - Belitung - Aceh - Seram -Hasanudin - Unpad Dipatiukur
-               \nDari Dago: Unpad Dipatiukur - Jalan Ir. H. Juanda - Merdeka - Tamblong - Lembong - Lengkong Kecil - Lengkong Besar - Otto Iskandardinata - Peta - Terminal Leuwipanjang
-               \nJam Operasional: 10.25 WIB dari Leuwipanjang
-               \nTarif: Gratis
-            ''')
+            moduls.tampilTrayek(195,203,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n):')
             if lagi == 'y':
                 daerah()
@@ -597,17 +440,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '20':
             print(border)
-            print('''
-                \nYang Anda Pilih:
-                \nBus Sekolah
-               \nNo. Koridor BS03
-               \nKoridor: Cibiru—Alun-alun
-               \nJalan yang dilalui:
-               \nDari Cibiru: Bundaran Cibiru - Jalan Soekarno Hatta - Buahbatu - Gurame - Asia Afrika - Alun-alun Bandung
-               \nDari Alun-alun: Alun-alun - Jalan Otto Iskandardinata - Inggit Ganarsih - Pungkur - BKR - Pelajar Pejuang 45 - Buahbatu - Soekarno Hatta - Bundaran Cibiru
-               \nJam Operasional: 10.20 WIB dari persimpangan Gedebage
-               \nTarif: Gratis
-            ''')
+            moduls.tampilTrayek(206,214,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n):')
             if lagi == 'y':
                 daerah()
@@ -620,17 +453,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '21':
             print(border)
-            print('''
-                \nYang Anda pilih:
-                \nBus Sekolah
-               \nNo. Koridor BS04
-               \nKoridor: Cibiru—Cibereum
-               \nJalan yang dilalui:
-               \nDari Cibiru: Bundaran Cibiru - Jalan Soekarno Hatta - Sudirman - Rajawali Barat - Elang
-               \nDari Cibereum: Elang - Jalan Rajawali Barat - Soekarno Hatta - Bundaran Cibiru
-               \nJam Operasional: 10.30 WIB dari persimpangan Gedebage
-               \nTarif : Gratis
-            ''')
+            moduls.tampilTrayek(217,225,listTrayek='listTrayekKota.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n):')
             if lagi == 'y':
                 daerah()

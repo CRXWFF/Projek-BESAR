@@ -177,7 +177,7 @@ Koridor: Leuwi Panjang - Majalaya
 Jalan yang dilalui:
 Dari Leuwi Panjang: Kopo - Peta - BKR - Moh. Toha - Raya Dayeuhkolot - Raya Bojongsoang - Cijagra - Mekarsari - Siliwangi - Raya Laswi - Kondang - Stasion
 Dari Majalaya: Stasion - Alun-alun Utara - Cikaro - Raya Laswi - Siliwangi - Mekarsari - Cijagra - Raya Bojongsoang - Raya Dayeuhkolot - Moh. Toha - Soekarno Hatta - Moh. Toha - BKR - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
-Jam Operasional: 06.00-14.00 (Dari Leuwi Panjang) & 08.00-16.00 (Dari Majalaya)
+Jam Operasional: 06.00 - 14.00 (Dari Leuwi Panjang) & 08.00 - 16.00 (Dari Majalaya)
 Tarif: Tunai Rp. 5.000,- (Umum) & Rp. 0,- (Lansia)
 
 Pilihan 18
@@ -233,3 +233,193 @@ Relasi Perjalanan Abdul Muis - Cicaheum (via Binong)
 Jalan yang dilalui:
 Dari Abdul Muis: Dewi Sartika - Kautamaan Istri - Balonggede - Pungkur - Moch. Ramdan - Karapitan - Lauk Emas - Buah Batu - K.H. Ahmad Dahlan - Palasari - Lodaya - R.A.A. Martanegara - Turangga - Jend. Gatot Subroto - H. Ibrahim Adjie - Jakarta - Flyover Supratman - Supratman - Lapang Supratman - Supratman - Brigadir Jend. Katamso - Pahlawan - Cikutra - P.H.H. Mustofa - Jend. Ahmad Yani
 Dari Cicaheum: Jend. Ahmad Yani - P.H.H. Mustofa - Pahlawan - Brigadir Jend. Katamso - Supratman - Jend. Ahmad Yani - H. Ibrahim Adjie - Jend. Gatot Subroto - Turangga - R.A.A. Martanegara - Lodaya - Palasari - Gajah - Buah Batu - Gurame - Moch. Ramdan - Pungkur - Ibu Inggit Garnasih - Dewi Sartika
+
+Pilihan 2
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 01B
+Warna: Hijau-Merah
+Relasi Perjalanan Abdul Muis - Cicaheum (via Aceh)
+Jalan yang dilalui:
+Dari Abdul Muis: Dewi Sartika - Kautamaan Istri - Balonggede - Pungkur - Moch. Ramdan - Karapitan - Sunda - Sumbawa - Lombok - Aceh - Taman Pramuka - Cendana - Lapang Supratman - Supratman - Brigadir Jend. Katamso - Pahlawan - Cikutra - P.H.H. Mustofa - Jend. Ahmad Yani"
+Dari Cicaheum: Jend. Ahmad Yani - P.H.H. Mustofa - Pahlawan - Brigadir Jend. Katamso - Supratman - Lapang Supratman - Cendana - Taman Pramuka - L.L.R.E. Martadinata - Aceh - Lombok - Belitung - Sumatera - Tamblong - Lengkong Besar - Ibu Inggit Garnasih - Dewi Sartika
+
+Pilihan 3
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 02
+Warna: Hijau-Oren 
+Relasi Perjalanan Abdul Muis - Dago 
+Jalan yang dilalui:
+Dari Abdul Muis: Dewi Sartika - Kautamaan Istri - Balonggede - Pungkur - Moch. Ramdan - Karapitan - Sunda - Sumbawa - Seram - L.L.R.E. Martadinata - Ir. H. Djuanda
+Dari Dago: Ir. H. Djuanda - Dipatiukur - Hasanudin - Ir. H. Djuanda - Merdeka - Aceh - Kalimantan - Belitung - Sumatera - Tamblong - Lengkong Besar - Ibu Inggit Garnasih - Dewi Sartika
+
+Pilihan 4
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 03
+Warna: Hijau-Abu
+Relasi Perjalanan Abdul Muis - Ledeng
+Jalan yang dilalui:
+Dari Abdul Muis: Dewi Sartika - Kautamaan Istri - Balonggede - Pungkur - Moch. Ramdan - Karapitan - Sunda - Sumbawa - Lombok - Banda - L.L.R.E. Martadinata - Merdeka - Perintis Kemerdekaan - Wastukencana - Pajajaran - Cihampelas - Dr. Abdul Rivai - Cipaganti - Pasteur - Pasir Kaliki - Sukajadi - Dr. Setiabudi
+Dari Ledeng: Dr. Setiabudi - Cihampelas - Wastukencana - L.L.R.E. Martadinata - Purnawarman - Wastukencana - Aceh - Kalimantan - Belitung - Sumatera - Tamblong - Lengkong Besar - Ibu Inggit Garnasih - Dewi Sartika
+
+Pilihan 5
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 04 
+Warna: Oren-Putih-Hijau
+Relasi Perjalanan Abdul Muis - Elang
+Jalan yang dilalui:
+Dari Abdul Muis: Dewi Sartika - Pungkur - Otto Iskandardinata - Ibu Inggit Garnasih - Astana Anyar - Pagarsih - Pagarsih Barat - Suryani - Suryani Dalam - Nana Rohana - Holis
+Dari Elang: Holis - Nana Rohana - Suryani Dalam - Suryani - Pagarsih Barat - Pagarsih - Kalipah Apo - Otto Iskandardinata - Ibu Inggit Garnasih - Dewi Sartika
+
+Pilihan 6
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 05
+Warna: Hijau-Coklat
+Relasi Perjalanan Cicaheum - Ledeng
+Jalan yang dilalui:
+Dari Cicaheum: Jend. Ahmad Yani - P.H.H. Mustofa - Pahlawan - Brigadir Jend. Katamso - Supratman - Diponegoro - Sulanjana - Tamansari - Siliwangi - Ciumbuleuit - Cihampelas - Lamping - Jurang - Sukamaju - Sukajadi - Dr. Setiabudi
+Dari Ledeng: Dr. Setiabudi - Ciumbuleuit - Siliwangi - Sumur Bandung - Tamansari - Cikapayang - Tamansari - Sulanjana - Diponegoro - Supratman - Brigadir Jend. Katamso - Pahlawan - P.H.H. Mustofa - Jend. Ahmad Yani
+
+Pilihan 7
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 06
+Warna: Hijau-Kuning
+Relasi Perjalanan Cicaheum - Ciroyom
+Jalan yang dilalui
+Dari Cicaheum: Jend. Ahmad Yani - P.H.H. Mustofa - Surapati - Panatayuda - Dipatiukur - Siliwangi - Sumur Bandung - Tamansari - Siliwangi - Ciumbuleuit - Cihampelas - Prof. Eyckman - Pasir Kaliki - Pasteur - Pasir Kaliki - Pajajaran - Abdul Rahman Saleh - Garuda - Ciroyom Barat - Ciroyom
+Dari Ciroyom: Ciroyom - Arjuna - Aruna - Pajajaran - Astina - Dursasana - Pasir Kaliki - Prof. Eyckman - Sederhana - Jurang - Sukamaju - Sukajadi - Karangsari - Dr. Setiabudi - Ciumbuleuit - Siliwangi - Dipatiukur - Singa Perbangsa - Japati - Surapati - P.H.H. Mustofa - Jend. Ahmad Yani
+
+Pilihan 8
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 07
+Warna: Coklat Tua- Coklat Muda
+Relasi Perjalan Cicaheum - Ciwastra - Derwati
+Jalan yang dilalui:
+Dari Cicaheum: Surapati - Sentot Alibasyah - Diponegoro - Supratman - Jend. Ahmad Yani - H. Ibrahim Adjie - Margacinta - Ciwastra - Terusan Derwati - Raya Derwati
+Dari Derwati: Raya Derwati - Terusan Derwati - Ciwastra - Margacinta - H. Ibrahim Adjie - Jakarta - Flyover Supratman - Supratman - Lapang Supratman - Supratman - Pusdai - Surapati
+
+Pilihan 9
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 08
+Warna: Merah-Putih
+Relasi Perjalanan Cicaheum - Leuwi Panjang
+Jalan yang dilalui:
+Dari Cicaheum: H. Ibrahim Adjie - Soekarno Hatta
+Dari Leuwi Panjang: Soekarno Hatta - H. Ibrahim Adjie
+
+Pilihan 10
+Yang Anda pilih adalah:
+Angkutan Umum
+No.Koridor 09
+Warna: Hijau-Oren
+Relasi Perjalanan Stasiun Hall - Dago
+Jalan yang dilalui:
+Dari Stasiun Hall:  Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Wastukencana - L.L.R.E. Martadinata - Ir. H. Djuanda"
+Dari Dago: Ir. H. Djuanda - Merdeka - Perintis Kemerdekaan - Braga - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan
+
+Pilihan 11
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor: 10
+Warna: Hijau-Cream
+Relasi Perjalanan Stasiun Hall - Sadang Serang
+Jalan yang dilalui:
+Dari Stasiun Hall: Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Braga - Lembong - Veteran - Sunda - Sumbawa - Lombok - Citarum - Taman Citarum - Citarum - Supratman - Brigadir Jend. Katamso - Pahlawan - Cikutra Barat - Sadang Serang 
+Dari Sadang Serang: Sadang Serang - Cikutra Barat - Pahlawan - Brigadir Jend. Katamso - Supratman - Citarum - Lombok - Belitung - Sumatera - Aceh - Merdeka - Perintis Kemerdekaan - Braga - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaa
+
+Pilihan 12
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 11A
+Warna: Hijau-Biru
+Relasi Perjalanan Stasiun Hall - Ciumbuleuit (via Eyckman)
+Jalan yang dilalui:
+Dari Stasiun Hall: Prof. Eyckman - Sederhana - Jurang - Sukamaju - Sukajadi - Karangsari - Dr. Setiabudi - Ciumbuleuit
+Dari Ciumbuleuit: Ciumbuleuit - Cihampelas - Bapa Husen - Sampurna - Sederhana - Makmur - Prof. Eyckman
+
+Pilihan 13
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 11B
+Warna: Hijau-Biru
+Relasi Perjalanan Stasiun Hall - Ciumbuleuit (via Cihampelas)
+Jalan yang dilalui:
+Dari Stasiun Hall: Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Kebon Jukut - Otto Iskandardinata - Kebon Kawung - Pasir Kaliki - Pajajaran - Cicendo - Cihampelas - Dr. Abdul Rivai - Cipaganti - Pasteur - Pasir Kaliki - Sukajadi - Karangsari - Dr. Setiabudi - Ciumbuleuit
+Dari Ciumbuleuit: Ciumbuleuit - Cihampelas - Wastukencana - Pajajaran - Cicendo - Kebon Kawung - Pasir Kaliki - Kebon Jati - Suniaraja
+
+Pilihan 14
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 12
+Warna: Hijau Muda-Merah-Hijau Tua
+nRelasi Perjalanan Stasiun Hall - Gedebage
+Jalan yang dilalui:
+Dari Stasiun Hall: Suniaraja - Pasar Barat - Pasar Selatan - Otto Iskandardinata - Kepatihan - Dewi Sartika - Dalem Kaum - Alun-alun Timur - Asia Afrika - Banceuy - Naripan - Sunda - Veteran - Jend. Ahmad Yani - Jend. Gatot Subroto - Malabar - Palasari - Talaga Bodas - Pelajar Pejuang 45 - R.A.A. Martanegara - Reog - Karawitan - Kliningan - Buah Batu - Soekarno Hatta
+Dari Gedebage: Soekarno Hatta - Buah Batu - Kliningan - Karawitan - Maskumambang - R.A.A. Martanegara - Pelajar Pejuang 45 - Talaga Bodas - Palasari - Halimun - Malabar - Jend. Ahmad Yani - Sunda - Sumbawa - Belitung - Sumatera - Aceh - Merdeka - Perintis Kemerdekaan - Braga - Suniaraja - Perintis Kemerdekaan - Kebon Jukut - Otto Iskandardinata - Kebon Kawung - Pasir Kaliki - Kebon Jati - Suniaraja
+
+Pilihan 15
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 13
+Warna: Biru-Hijau
+Relasi Perjalanan Stasiun Hall - Sarijadi
+Jalan yang dilalui:
+Dari Stasiun Hall: Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Kebon Jukut - Otto Iskandardinata - Kebon Kawung - Pasir Kaliki - Dr. Djunjunan - Surya Sumantri - Lemahneundeut - Sariwangi - Sarimanis - Sarimanah
+Dari Sarijadi: Sarimanah - Sarimanis - Sariwangi - Lemahneundeut - Terusan Prof. Dr. Sutami - Surya Sumantri - Dr. Djunjunan - Pasir Kaliki - Pajajaran - Cicendo - Kebon Kawung - Pasir Kaliki - Kebon Jati - Suniaraja
+
+Pilihan 16
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 14
+Warna: Biru-Merah-Hijau
+Relasi Perjalanan Stasiun Hall - Gunung Batu
+Jalan yang dilalui:
+Dari Stasiun Hall: Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Wastukencana - Pajajaran - Cihampelas - Dr. Abdul Rivai - Dr. Cipto - Dr. Gunawan - Dr. Otten - Westhoff - Pasteur - Dr. Djunjunan - Sukaraja II - Dakota - Gunung Batu
+Dari Gunung Batu: Gunung Batu - Dakota - Sukaraja II - Dr. Djunjunan - Pasteur - Cihampelas - Wastukencana - Pajajaran - Cicendo - Kebon Kawung - Pasir Kaliki - Kebon Jati - Suniaraja
+
+Pilihan 17
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 15
+Warna: Biru-Kuning
+Relasi Perjalanan Margahayu Raya - Ledeng
+Jalan yang dilalui:
+Dari Margahayu Raya: Rancabolang - Soekarno Hatta - H. Ibrahim Adjie - Flyover Kiaracondong - H. Ibrahim Adjie - Jakarta - Flyover Supratman - Supratman - Lapang Supratman - Cendana - Taman Pramuka - L.L.R.E. Martadinata - Merdeka - Perintis Kemerdekaan - Wastukencana - Pajajaran - Cihampelas - Dr. Abdul Rivai - Cipaganti - Pasteur - Pasir Kaliki - Sukajadi - Dr. Setiabudi
+Dari Ledeng: Dr. Setiabudi - Cipaganti - Jurang - Sederhana - Makmur - Prof. Eyckman - Cihampelas - Wastukencana - L.L.R.E. Martadinata - Taman Pramuka - Cendana - Lapang Supratman - Supratman - Jend. Ahmad Yani - H. Ibrahim Adjie - Flyover Kiaracondong - H. Ibrahim Adjie - Soekarno Hatta - Rancabolang
+
+Pilihan 18
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 16
+Warna: Putih-Kuning-Hijau
+Relasi Perjalanan Dago - Riung Bandung
+Jalan yang dilalui:
+Dari Dago: Ir. H. Djuanda - Dipatiukur - Panatayuda - Surapati - Sentot Alibasyah - Diponegoro - Citarum - L.L.R.E. Martadinata - Jend. Ahmad Yani - H. Ibrahim Adjie - Soekarno Hatta - Cipamokolan - Riung Bandung Raya - Riung Hegar Raya - Riung Arum Raya - Riung Tineung - Riung Mungpulung Raya - Riung Mungpulung II - Riung Saluyu
+Dari Riung Bandung: Riung Saluyu - Riung Mungpulung III - Riung Mungpulung Raya - Riung Mungpulung I - Riung Subur - Riung Tineung - Riung Arum Raya - Riung Hegar Raya - Riung Bandung Raya - Cipamokolan - Soekarno Hatta - H. Ibrahim Adjie - Jakarta - Sukabumi - Laswi - L.L.R.E. Martadinata - Anggrek - Taman Cempaka - Patrakomala - Menado - Belitung - Banda - Cilamaya - Diponegoro - Aria Jipang - Prabudimuntur - Surapati - Panatayuda - Dipatiukur - Ir. H. Djuanda
+
+Pilihan 19
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 17
+Warna: Oren-Putih-Ijo
+Relasi Perjalanan Pasar Induk Caringin - Dago
+Jalan yang dilalui:
+Dari Pasar Induk Caringin: Soekarno Hatta - Terusan Pasirkoja - Jamika - Jend. Sudirman - Andir - Rajawali Timur - Ciroyom - Arjuna - Kebon Jati - Pasir Kaliki - Pajajaran - Cihampelas - Wastukencana - L.L.R.E. Martadinata - Purnawarman - Ranggagading - Hariangbanga - Sawunggaling - Tamansari - Cikapayang - Surapati - Jalaprang - Rereng Wulung - Rereng Adumanis - Sidomukti - Batik Kumeli - Cikutra Barat - Cikondang - Cigadung Raya Timur - Cigadung Raya Tengah - Cigadung Raya Barat - Ir. H. Djuanda
+Dari Dago: Ir. H. Djuanda - Cigadung Raya Barat - Cigadung Raya Tengah - Cigadung Raya Timur - Cikondang - Cikutra Barat - Pahlawan - Surapati - Prabudimuntur - Cikapayang - Tamansari - Sawunggaling - Ranggagading - Tamansari - Wastukencana - L.L.R.E. Martadinata - Purnawarman - Wastukencana - Pajajaran - Cicendo - Kebon Kawung - Pasir Kaliki - Pajajaran - Arjuna - Jatayu - Abdul Rahman Saleh - Garuda - Ciroyom Barat - Andir - Rajawali Timur - Waringin - Jend. Sudirman - Jamika - Terusan Pasirkoja - Soekarno Hatta
+
+Pilihan 20
+Yang Anda pilih adalah:
+Angkutan Umum
+No. Koridor 18
+Warna: Putih-Kuning-Merah-Hijau
+Relasi Perjalanan Panghegar Permai - Dipatiukur
+Jalan yang dilalui:
+Dari Panghegar Permai: Cisaranten Kulon - Cicukang - A.H. Nasution - Jend. Ahmad Yani - H. Ibrahim Adjie - Jakarta - Sukabumi - Laswi - L.L.R.E. Martadinata - Citarum - Taman Citarum - Hayam Wuruk - Cimalaya - Diponegoro - Sulanjana - Tamansari - Ganesa - Ir. H. Djuanda - Teuku Umar - Dipatiukur
+Dari Dipatiukur: Dipatiukur - Hasanudin - Ir. H. Djuanda - Ganesa - Tamansari - Cikapayang - Tamansari - Sawunggaling - Ranggagading - Tamansari - Wastukencana - L.L.R.E. Martadinata - Banda - Belitung - Sumatera - Veteran - Jend. Ahmad Yani - A.H. Nasution - Cicukang - Cisaranten Kulon

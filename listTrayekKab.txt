@@ -176,83 +176,168 @@ Dari Banjaran: Banjaran - Rancamanyar - Sukamenak - Cibaduyut Raya
 
 Pilihan 4
 Yang Anda pilih adalah:
-
+Angkutan Umum
+Relasi Perjalanan Cicalengka - Limbangan
+Jalan yang dilalui:
+Dari Cicalengka: Cicalengka - Nagrog - Nagrek - Limbangan
+Dari Limbangan: Baleendah - Sukamenak - Cibaduyut Raya
 
 Pilihan 5
 Yang Anda pilih adalah:
-
+Angkutan Umum
+Relasi Perjalanan Cicalengka - Majalaya
+Jalan yang dilalui:
+Dari Cicalengka: Cicalengka - Cikancung - Majalaya
+Dari Majalaya: Majalaya - Cikancung - Cicalengka
 
 Pilihan 6
 Yang Anda pilih adalah:
-
+Angkutan Umum
+Relasi Perjalanan Cileunyi - Cicalengka
+Jalan yang dilalui:
+Dari Cileunyi: Terminal cileunyi - Rancaekek - Cicalengka
+Dari Cicalengka: Cicalengka - Rancaekek - Terminal Cileunyi
 
 Pilihan 7
 Yang Anda pilih adalah:
-
+Angkutan Umum
+Relasi Perjalanan Cileunyi - Majalaya
+Jalan yang dilalui:
+Dari Cileunyi: Terminal cileunyi - Rancaekek - Solokan Jeruk - Majalaya
+Dari Majalaya: Majalaya - Solokan Jeruk - Rancaekek - Terminal Cileunyi
 
 Pilihan 8
 Yang Anda pilih adalah:
-
+Angkutan Umum
+Relasi Perjalanan Cileunyi - Terminal Cakar
+Jalan yang dilalui:
+Dari Cileunyi: Terminal cileunyi - Jatinangor - Tanjung sari - Cadas Pangeran - Sumedang
+Dari Terminal Cakar: Sumedang - Cadas Pangeran - Tanjung sari - Jatinangor - Terminal Cileunyi
 
 Pilihan 9
 Yang Anda pilih adalah:
-
+Angkutan Umum
+Relasi Perjalanan Cimahi - Soreang
+Jalan yang dilalui:
+Dari Cimahi: Cimahi - Baros - Nanjung - Margaasih - Patrol - Kutawaringin - Soreang
+Dari Soreang: Soreang - Kutawaringin - Patrol - Margaasih - Nanjung - Baros - Cimahi
 
 Pilihan 10
 Yang Anda pilih adalah:
-
+Angkutan Umum
+Relasi Perjalanan Cimindi - Marga Asih
+Jalan yang dilalui:
+Dari Cimindi: Cimindi - Kebon Kopi - Pharmindo - Melong - Gempol - Marga Asih
+Dari Marga Asih: Marga Asih - Gempol - Melong - Pharmindo - Kebon Kopi - Cimindi
 
 Pilihan 11
 Yang Anda pilih adalah:
-
+Angkutan Umum
+Relasi Perjalanan Cicaheum - Cileunyi
+Jalan yang dilalui:
+Dari Cicaheum: Terminal cicaheum - Ahmad yani - Jendral AH Nasution - Cibiru - Cinunuk - Cileunyi
+Dari Cileunyi: Cileunyi - Cinunuk - Cibiru - Jendral AH Nasution - Ahmad Yani - Terminal Cicaheum
 
 Pilihan 12
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Ciwastra - Ciparay
+\nJalan yang dilalui:
+\nDari Ciwastra: Terusan buah batu - Terusan kiaracondong - Margacinta - Ciwastra - Derwati - Sapan - Ciparay
+\nDari Ciparay: ciparay - Sapan - Derwati - Ciwastra - Margacinta - Terusan Kiaracondong - Terusan buah batu
 
 Pilihan 13
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan  Majalaya - Ciparay
+\nJalan yang dilalui:
+\nDari Majalaya: Majalaya - Ciparay
+\nDari Ciparay: Ciparay - Majalaya
 
 Pilihan 14
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Majalaya - Ibun
+\nJalan yang dilalui:
+\nDari Majalaya: Majalaya - Ibun
+\nDari Ibun: Ibun - Majalaya
 
 Pilihan 15
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Majalaya - Pacet
+\nJalan yang dilalui:
+\nDari Majalaya: Majalaya - Ciwalengke - Pacet
+\nDari Pacet: Pacet - Ciwalengke - Majalaya
 
 Pilihan 16
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Soreang - Banjaran
+\nJalan yang dilalui:
+\nDari Soreang: Soreang - Banjaran
+\nDari Banjaran: Banjaran - Soreang
 
 Pilihan 17
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Soreang - Dayeuh Kolot
+\nJalan yang dilalui:
+\nDari Soreang: Soreang - Katapang - Sayati - Sukamenak - Moh Toha
+\nDari Dayeuh Kolot: Moh Toha - Sukamenak - Sayati - Katapang - Soreang
 
 Pilihan 18
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Buah Batu - Dayeuh Kolot
+\nJalan yang dilalui:
+\nDari Buah Batu: Term. Buah batu - Bojong soang - Dayeuh kolot
+\nDari Dayeuh Kolot: Dayeuh kolot - Bojong soang - Terminal Buah batu
 
 Pilihan 19
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Leuwi Panjang - Soreang
+\nJalan yang dilalui:
+\nDari Leuwi Panjang: Terminal leuwi panjang - Sukarno hata - Kopo - Bihbul - Sayati - Katapang - Soreang
+\nDari Soreang: Soreang - Katapang - Sayati - Bihbul - Kopo - Sukarno Hata - Terminal Leuwipanjang
 
 Pilihan 20
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Pasar Induk gedebage - Majalaya
+\nJalan yang dilalui:
+\nDari Pasar Induk gedebage: Pasar Induk Gedebage - Sukarno Hata - Gedebage - Sapan - Solokan Jeruk - Majalaya
+\nDari Majalaya: Majalaya - Sukarno Hata - Sapan - Gedebage - Sukarno Hata - Pasar Induk Gedebage
 
 Pilihan 21
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Tegalega - Banjaran"
+\nJalan yang dilalui:
+\nDari Tegalega: Terminal tegalega - Otista - BKR - Mohamad Toha - Dayeuh kolot - Raya Bojongsoang - Baleendah - Pamengpeuk - Banjaran
+\nDari Banjaran: Banjaran - Pamengpeuk - Baleendah - Raya Bojongsoang - Dayeuh Kolot - Mohamad Toha - BKR - Otista - Terminal Tegalega
 
 Pilihan 22
 Yang Anda pilih adalah:
-
+Angkutan Umum"
+\nRelasi Perjalanan Tegalega - Mahmud"
+\nJalan yang dilalui:
+\nDari Tegalega: Terminal Tegalega - Otista - Peta - Leuwipanjang - Soekarno Hatta - Kopo - Caringin - Terusan Holis - Cigondewah - Rahayu Nanjung
+\nDari Mahmud: Rahayu Nanjung - Cigondewah - Terusan Holis - Kopo - Soekarno Hatta - Kopo - Leuwipanjang - Peta - Otista - Terminal Tegalega
 
 Pilihan 23
 Yang Anda pilih adalah:
-
+Angkutan Umum
+\nRelasi Perjalanan Tegalega - Cipatik
+\nJalan yang dilalui:
+\nDari Tegalega: Terminal Tegalega - Otista - Peta - Leuwipanjang - Soekarno Hatta - Kopo - Caringin - Terusan Holis - Cigondewah - Rahayu Nanjung - Patrol - Cipatik
+\nDari Cipatik: Cipatik - Patrol - Rahayu Nanjung - Cigondewah - terusan holis - Caringin - Kopo - Soekarno Hatta - Leuwipanjang - Peta - Otista - Terminal Tegalega
 
 Pilihan 24
 Yang Anda pilih adalah:
+Angkutan Umum
+\nRelasi Perjalanan Tegalega - Ciparay
+\nJalan yang dilalui:
+\nDari Tegalega: Terminal Tegalega - Otista - BKR - Mohamad Toha - Dayeuh Kolot - Raya Bojongsoang - Baleendah - Raya Laswi - Jelekong - Ciparay
+\nDari Ciparay: Ciparay - Jelekong - Raya Laswi - Baleendah - Raya Bojongsoang - Dayeuh Kolot - Mohamad Toha - BKR - Otista - Terminal Tegalega

@@ -1048,15 +1048,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '4':
             print(border)
-            moduls.tampilTrayek(170,175,listTrayek='listTrayekKab.txt')
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Cicalengka - Limbangan
-                \nJalan yang dilalui:
-                \nDari Cicalengka: Cicalengka - Nagrog - Nagrek - Limbangan
-                \nDari Limbangan: Baleendah - Sukamenak - Cibaduyut Raya
-            ''')
+            moduls.tampilTrayek(178,183,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1070,14 +1062,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '5':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Cicalengka - Majalaya
-                \nJalan yang dilalui:
-                \nDari Cicalengka: Cicalengka - Cikancung - Majalaya
-                \nDari Majalaya: Majalaya - Cikancung - Cicalengka
-            ''')
+            moduls.tampilTrayek(186,191,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1091,14 +1076,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '6':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Cileunyi - Cicalengka
-                \nJalan yang dilalui:
-                \nDari Cileunyi: Terminal cileunyi - Rancaekek - Cicalengka
-                \nDari Cicalengka: Cicalengka - Rancaekek - Terminal Cileunyi
-            ''')
+            moduls.tampilTrayek(194,199,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1112,14 +1090,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '7':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Cileunyi - Majalaya
-                \nJalan yang dilalui:
-                \nDari Cileunyi: Terminal cileunyi - Rancaekek - Solokan Jeruk - Majalaya
-                \nDari Majalaya: Majalaya - Solokan Jeruk - Rancaekek - Terminal Cileunyi
-            ''')
+            moduls.tampilTrayek(202,207,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1133,14 +1104,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '8':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Cileunyi - Terminal Cakar
-                \nJalan yang dilalui:
-                \nDari Cileunyi: Terminal cileunyi - Jatinangor - Tanjung sari - Cadas Pangeran - Sumedang
-                \nDari Terminal Cakar: Sumedang - Cadas Pangeran - Tanjung sari - Jatinangor - Terminal Cileunyi
-            ''')
+            moduls.tampilTrayek(210,215,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1154,14 +1118,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '9':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Cimahi - Soreang
-                \nJalan yang dilalui:
-                \nDari Cimahi: Cimahi - Baros - Nanjung - Margaasih - Patrol - Kutawaringin - Soreang
-                \nDari Soreang: Soreang - Kutawaringin - Patrol - Margaasih - Nanjung - Baros - Cimahi
-            ''')
+            moduls.tampilTrayek(218,223,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1175,14 +1132,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '10':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Cimindi - Marga Asih
-                \nJalan yang dilalui:
-                \nDari Cimindi: Cimindi - Kebon Kopi - Pharmindo - Melong - Gempol - Marga Asih
-                \nDari Marga Asih: Marga Asih - Gempol - Melong - Pharmindo - Kebon Kopi - Cimindi
-            ''')
+            moduls.tampilTrayek(226,231,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1196,14 +1146,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '11':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Cicaheum - Cileunyi
-                \nJalan yang dilalui:
-                \nDari Cicaheum: Terminal cicaheum - Ahmad yani - Jendral AH Nasution - Cibiru - Cinunuk - Cileunyi
-                \nDari Cileunyi: Cileunyi - Cinunuk - Cibiru - Jendral AH Nasution - Ahmad Yani - Terminal Cicaheum
-            ''')
+            moduls.tampilTrayek(234,239,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1217,14 +1160,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '12':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Ciwastra - Ciparay
-                \nJalan yang dilalui:
-                \nDari Ciwastra: Terusan buah batu - Terusan kiaracondong - Margacinta - Ciwastra - Derwati - Sapan - Ciparay
-                \nDari Ciparay: ciparay - Sapan - Derwati - Ciwastra - Margacinta - Terusan Kiaracondong - Terusan buah batu
-            ''')
+            moduls.tampilTrayek(241,247,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1238,14 +1174,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '13':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan  Majalaya - Ciparay
-                \nJalan yang dilalui:
-                \nDari Majalaya: Majalaya - Ciparay
-                \nDari Ciparay: Ciparay - Majalaya
-            ''')
+            moduls.tampilTrayek(250,255,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1259,14 +1188,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '14':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Majalaya - Ibun
-                \nJalan yang dilalui:
-                \nDari Majalaya: Majalaya - Ibun
-                \nDari Ibun: Ibun - Majalaya
-            ''')
+            moduls.tampilTrayek(258,263,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1280,14 +1202,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '15':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Majalaya - Pacet
-                \nJalan yang dilalui:
-                \nDari Majalaya: Majalaya - Ciwalengke - Pacet
-                \nDari Pacet: Pacet - Ciwalengke - Majalaya
-            ''')
+            moduls.tampilTrayek(266,271,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1301,14 +1216,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '16':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Soreang - Banjaran
-                \nJalan yang dilalui:
-                \nDari Soreang: Soreang - Banjaran
-                \nDari Banjaran: Banjaran - Soreang
-            ''')
+            moduls.tampilTrayek(274,279,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1322,14 +1230,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '17':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Soreang - Dayeuh Kolot
-                \nJalan yang dilalui:
-                \nDari Soreang: Soreang - Katapang - Sayati - Sukamenak - Moh Toha
-                \nDari Dayeuh Kolot: Moh Toha - Sukamenak - Sayati - Katapang - Soreang
-            ''')
+            moduls.tampilTrayek(282,287,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1343,14 +1244,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '18':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Buah Batu - Dayeuh Kolot
-                \nJalan yang dilalui:
-                \nDari Buah Batu: Term. Buah batu - Bojong soang - Dayeuh kolot
-                \nDari Dayeuh Kolot: Dayeuh kolot - Bojong soang - Terminal Buah batu
-            ''')
+            moduls.tampilTrayek(290,295,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1364,14 +1258,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '19':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Leuwi Panjang - Soreang
-                \nJalan yang dilalui:
-                \nDari Leuwi Panjang: Terminal leuwi panjang - Sukarno hata - Kopo - Bihbul - Sayati - Katapang - Soreang
-                \nDari Soreang: Soreang - Katapang - Sayati - Bihbul - Kopo - Sukarno Hata - Terminal Leuwipanjang
-            ''')
+            moduls.tampilTrayek(298,303,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1385,14 +1272,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '20':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Pasar Induk gedebage - Majalaya
-                \nJalan yang dilalui:
-                \nDari Pasar Induk gedebage: Pasar Induk Gedebage - Sukarno Hata - Gedebage - Sapan - Solokan Jeruk - Majalaya
-                \nDari Majalaya: Majalaya - Sukarno Hata - Sapan - Gedebage - Sukarno Hata - Pasar Induk Gedebage
-            ''')
+            moduls.tampilTrayek(306,311,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1406,14 +1286,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '21':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Tegalega - Banjaran"
-                \nJalan yang dilalui:
-                \nDari Tegalega: Terminal tegalega - Otista - BKR - Mohamad Toha - Dayeuh kolot - Raya Bojongsoang - Baleendah - Pamengpeuk - Banjaran
-                \nDari Banjaran: Banjaran - Pamengpeuk - Baleendah - Raya Bojongsoang - Dayeuh Kolot - Mohamad Toha - BKR - Otista - Terminal Tegalega
-            ''')
+            moduls.tampilTrayek(314,319,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1427,14 +1300,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '22':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum"
-                \nRelasi Perjalanan Tegalega - Mahmud"
-                \nJalan yang dilalui:
-                \nDari Tegalega: Terminal Tegalega - Otista - Peta - Leuwipanjang - Soekarno Hatta - Kopo - Caringin - Terusan Holis - Cigondewah - Rahayu Nanjung
-                \nDari Mahmud: Rahayu Nanjung - Cigondewah - Terusan Holis - Kopo - Soekarno Hatta - Kopo - Leuwipanjang - Peta - Otista - Terminal Tegalega
-            ''')
+            moduls.tampilTrayek(322,327,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1448,14 +1314,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '23':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Tegalega - Cipatik
-                \nJalan yang dilalui:
-                \nDari Tegalega: Terminal Tegalega - Otista - Peta - Leuwipanjang - Soekarno Hatta - Kopo - Caringin - Terusan Holis - Cigondewah - Rahayu Nanjung - Patrol - Cipatik
-                \nDari Cipatik: Cipatik - Patrol - Rahayu Nanjung - Cigondewah - terusan holis - Caringin - Kopo - Soekarno Hatta - Leuwipanjang - Peta - Otista - Terminal Tegalega
-            ''')
+            moduls.tampilTrayek(330,335,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':
@@ -1469,14 +1328,7 @@ def pilihan_trayek_angkot_kab():
             break
         elif pilihan == '24':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nAngkutan Umum
-                \nRelasi Perjalanan Tegalega - Ciparay
-                \nJalan yang dilalui:
-                \nDari Tegalega: Terminal Tegalega - Otista - BKR - Mohamad Toha - Dayeuh Kolot - Raya Bojongsoang - Baleendah - Raya Laswi - Jelekong - Ciparay
-                \nDari Ciparay: Ciparay - Jelekong - Raya Laswi - Baleendah - Raya Bojongsoang - Dayeuh Kolot - Mohamad Toha - BKR - Otista - Terminal Tegalega
-            ''')
+            moduls.tampilTrayek(338,343,listTrayek='listTrayekKab.txt')
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
             if lagi == 'y':

@@ -8,7 +8,7 @@
 
 from builtins import input
 from sys import exit
-import csv
+import csv, moduls
 
 # Kodingan inti mulai dari sini
 border = '====================================================================='
@@ -90,6 +90,10 @@ def login(username, password):
     while True:
         if username in user_data and password == user_data[username]:
             print(border,'\nLogin berhasil!')
+            menu_utama()
+            break
+        elif username == admin_data['username'] and password == admin_data['password']:
+            print(border,'\nLogin berhasil sebagai admin!')
             menu_utama()
             break
         else:
@@ -178,16 +182,7 @@ def pilihan_trayek_bus_kota():
         pilihan = input('Masukkan angka pilihan: ')
         if pilihan == '1':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nTrans Metro Pasundan
-                \nNo. Koridor 1D
-                \nKoridor: Leuwi Panjang - Gading Tutuka (via Tol Soroja)
-                \nJalan Yang dilalui:
-                \nDari Leuwi Panjang: Kopo - Peta - Terusan Pasirkoja - Gerbang Tol Pasirkoja - Tol Soroja - Gerbang Tol Soreang - Tol Soroja - Al-Fathu - Terusan Al-Fathu - Raya Soreang-Banjaran - Raya Gading Tutuka
-                \nDari Gading Tutuka: Gading Tutuka - Tol Soroja - Gerbang Tol Soreang - Tol Soroja - Gerbang Tol Pasirkoja - Soekarno Hatta - Leuwi Panjang
-                \nJam Operasional: 05.00-19.00
-            ''')
+            moduls.tampilTrayek(1,8,listTrayek='listTrayekKota.txt')
 
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
@@ -201,16 +196,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '2':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nTrans Metro Pasundan
-                \nNo. Koridor 2D
-                \nKoridor: Kota Baru Parahyangan - Alun-alun Bandung
-                \nJalan yang dilalui
-                \nDari Kota Baru Parahyangan: Parahyangan Raya - Bujanggamanik Kav. - Gelap Nyawang - Parahyangan Raya - Raya Padalarang - Raya Caringin - Raya Cimareme - Raya Gadobangkong - Jend. H. Amir Mahmud - Flyover Cimindi - Jend. H. Amir Mahmud - Rajawali Barat - Rajawali Timur - Kebon Jati - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Braga -  Lembong - Veteran - Tamblong - Asia Afrika
-                \nDari Alun-alun Bandung: Asia Afrika - Jend. Sudirman - Jend. H. Amir Mahmud - Flyover Cimindi - Jend. H. Amir Mahmud - Gatot Subroto - Gedung Empat - Gandawijaya - Jend. H. Amir Mahmud - Raya Gadobangkong - Raya Cimareme - Raya Caringin - Raya Padalarang - Parahyangan Raya
-                \nJam Operasional: 05.00-19.00
-            ''')
+            moduls.tampilTrayek(12,19,listTrayek='listTrayekKota.txt')
 
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
@@ -225,16 +211,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '3':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nTrans Metro Pasundan
-                \nNo. Koridor 3D
-                \nKoridor: Baleendah - BEC
-                \nJalan yang dilalui:
-                \nDari Baleendah: Anggadireja - Jaksa Naranata - Siliwangi - Mekarsari - Cijagra - Raya Bojongsoang - Terusan Buah Batu - Soekarno Hatta - Moh. Toha - Pungkur - Dewi Sartika - Alun-alun Timur - Asia Afrika - Banceuy - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Kebon Jukut - Otto Iskandardinata - Kebon Kawung - Pasir Kaliki - Pajajaran - Cihampelas - Wastukencana - L.L.R.E. Martadinata - Purnawarman
-                \nDari BEC: Purnawarman - Wastukencana - Aceh - Merdeka - Lembong - Tamblong - Asia Afrika - Otto Iskandardinata - BKR - Moh. Toha - Soekarno Hatta - Terusan Buah Batu - Raya Bojongsoang - Cijagra - Mekarsari - Siliwangi - Jaksa Naranata - Adipati Agung - Kiastramanggala - Anggadireja
-                \nJam Operasional: 04.30-19.00
-            ''')
+            moduls.tampilTrayek(22,29,listTrayek='listTrayekKota.txt')
 
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)
@@ -248,16 +225,7 @@ def pilihan_trayek_bus_kota():
             break
         elif pilihan == '4':
             print(border)
-            print('''
-                \nYang Anda pilih adalah:
-                \nTrans Metro Pasundan
-                \nNo. Koridor 4D
-                \nKoridor: Leuwi Panjang - Dago
-                \nJalan yang dilalui:
-                \nDari Leuwi Panjang: Kopo - Peta - Otto Iskandardinata - Astana Anyar - Gardujati - Kebon Jati - Suniaraja - Otto Iskandardinata - Stasiun Timur - Perintis Kemerdekaan - Wastukencana - L.L.R.E. Martadinata - Ir. H. Djuanda - Dipatiuku
-                \nDari Dago: Ir. H. Djuanda - Dipatiukur - Hasanudin - Ir. H. Djuanda - Merdeka - Perintis Kemerdekaan - Braga - Suniaraja - Otto Iskandardinata - Ibu Inggit Garnasih - Moh. Toha - BKR - Peta - Kopo - Soekarno Hatta - Leuwi Panjang
-                \nJam Operasional: 05.00-19.30
-            ''')
+            moduls.tampilTrayek(32,39,listTrayek='listTrayekKota.txt')
 
             lagi = input('Apakah kamu ingin mencari trayek lagi? (y/n): ')
             print(border)

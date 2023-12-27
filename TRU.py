@@ -60,7 +60,7 @@ def register(username, password):
 
     # Memeriksa username atau password kosong
     if username == "" or password == "":
-        print(border,'\nUsername atau password tidak boleh kosong!\nSilahkan masukkan username dan password yang valid!')
+        print(border,'\nUsername atau Password tidak boleh kosong!\nSilahkan masukkan username dan password yang valid!')
         register(username=input('Masukkan username: '), password=input('Masukkan password: '))
     # Memeriksa username sudah ada atau belum
     elif username in user_data:
@@ -94,6 +94,10 @@ def login(username, password):
             break
         elif username == admin_data['username'] and password == admin_data['password']:
             print(border,'\nLogin berhasil sebagai admin!')
+            menu_utama()
+            break
+        elif username == "" and password == "":
+            print(border,'\nUsername atau Password tidak boleh kosong!\nSilahkan masukkan username dan password yang valid!')
             menu_utama()
             break
         else:
